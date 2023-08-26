@@ -3,37 +3,15 @@
 </div>
 
 ###
-
-
-                <div class="content rounded-pill">
-                    <div class="commun-card">
-                        <i class="fa-brands fa-2x fa-facebook mr-10"></i>
-                        <div class="inf">
-                            <h5><a href="https://instagram.com/skillgrow_?igshid=YmMyMTA2M2Y="> Facebook </a></h5>
-                        </div>
-                    </div>
-                    <div class="commun-card">
-                        <i class="fa-brands fa-2x fa-instagram mr-10"></i>
-                        <div class="inf">
-                            
-							<h5><a href="https://instagram.com/skillgrow_?igshid=YmMyMTA2M2Y="> Instagram </a></h5>
-                        </div>
-                    </div>
-                    <div class="commun-card">
-                        <i class="fa-brands fa-2x fa-linkedin mr-10"></i>
-                        <div class="inf">
-                           <h5><a href="https://www.linkedin.com/company/skillgrowtraining/"> Linkedin </a></h5>
-                        </div>
-                    </div>
-                    <div class="commun-card">
-                        <i class="fa-brands fa-2x fa-youtube mr-10"></i>
-                        <div class="inf">
-						<h5><a href="https://youtube.com/@skillgrow2023?feature=shares"> Youtube </a></h5>
-                            
-                        </div>
-                    </div>
-                </div>
-            
+<div align="center">
+  <a href="https://www.linkedin.com/feed/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCAYHDIcIx6Op4NgHM1CufRA">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
+  <a href="https://twitter.com/home">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
+</div>
 
 ###
 
